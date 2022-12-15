@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Content</title>
+  <style>
+    body{
+      margin:0;
+      padding:0;
+      font-family:Arial;
+    p{
+      width:900px;
+      margin:30px auto;
+      text-align:justify;
+      font-size:22px;
+      line-height:30px;
+    }
+  </style>
+ </head>
+ 
+ <body> 
+  <div class="wrap"> 
+
+<h1>Our Content</h1>
+<p>We are the casuals and our group is focussed on giving people in this day and age advise and awreness on video game violence and how it inflences multiple people around the world 
+to be violent, while also entertaining the audience with games</p>  
+
+<h1>Stream Schedule</h1>
+<p>we have not yet decided on a schedule but when the time comes we will stream and our timeline for our stream will look something like this:</p>
+
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+<body>
+
+<h2>Table of Timeline</h2>
+
+<table style="width:70%">
+  <tr>
+    <th>Time</th>
+    <th>Topic</th>
+    <th>Activity</th>
+	<th>Time Allotment(mins)</th>
+	<th>Screen</th>
+	<th>Audio</th>
+  </tr>
+  <tr>
+    <td>1:00PM</td>
+    <td>Introduction of Stream</td>
+    <td>Sharing our stream agenda to the viewers. Introducing our group and members</td>
+	<td>5 minutes</td>
+	<td>Person streaming (Miggy Concepcion)</td>
+	<td>Device of person streaming(Miggy Concepcion)</td>
+  </tr>
+  <tr>
+    <td>1:05 PM</td>
+    <td>Beginning of Gameplay</td>
+    <td>We start playing the game (Roblox Doors)</td>
+	<td>1 - 5 minutes</td>
+	<td>Person streaming (Miggy Concepcion)</td>
+	<td>Device of person streaming(Miggy Concepcion)</td>
+  </tr>
+  <tr> 
+    <td>2:00 PM</td>
+	<td>Gameplay</td>
+	<td>We are playing the game and sharing it to our audience</td>
+	<td>20 - 30 minutes</td>
+	<td>Person streaming (Miggy Concepcion)</td>
+	<td>Device of person streaming(Miggy Concepcion)</td>
+  </tr>
+  <tr>
+    <td>2:25 PM</td>
+	<td>End of Gameplay </td>
+	<td>We start to stop playing and set up for our discussion</td>
+	<td>10 - 15 minutes</td>
+	<td>Person streaming (Miggy Concepcion)</td>
+	<td>Device of person streaming(Miggy Concepcion)</td>
+  </tr>
+    <td>3:00 PM</td>
+	<td>Start of Discussion</td>
+	<td>We start our discussion talking about video game violence and how it affects many people </td>
+	<td>10 - 20 minutes </td>
+	<td>Person streaming (Miggy Concepcion)</td>
+	<td>Device of person streaming(Miggy Concepcion)</td>
+  </tr> 
+  <tr> 
+    <td>3:02 PM</td>
+	<td>End of stream</td>
+	<td>Where we end the stream and thank everyone who has joined our stream </td>
+	<td>2 minutes</td>
+	<td>Person streaming (Miggy Concepcion)</td>
+	<td>Device of person streaming(Miggy Concepcion)</td>
+  </tr>
+</table>
+
+<h2>What games will you be playing?</h2>
+<p>It depends on what our group will choose but a reminder is that we have limitedd games and the games we do have our (Fortnite, Valorant, and Roblox) but if we do happen to get suggestion on games and 
+we increase the space of the device we are using to play then we will play the recommended games by our audience.</p>
+
+<h2>Invitation Letter</h2>
+<p>This letter shows what we will be doing in our stream and a general summarization of the stream</p>
+<img src="Promotional Poster.jpg" alt=""width="460" height="345"> 
+
+<h2>Logo</h2>
+<p>A picture of our Logo (Note the materials used to make our logo is from the website Canva):</p>
+<img src="Logo.jpg.jpg" alt=""width="460" height="345">
+
+
+<h2>Promotional Video:</h2>
+<body>
+<Video width="320" height="240" controls>
+  <source src="Promotional Ad.mp4" type="video/mp4">
+  <source src="Promotional Ad.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
+
+<a href="index.html" class="previous">&laquo; Previous</a>
+<a href="Home.html" class="next">Next &raquo;</a>
+
+<a href="index.html" class="previous round">&#8249;</a>
+<a href="Home.html" class="next round">&#8250;</a>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+}
+
+a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.previous {
+  background-color: #f1f1f1;
+  color: black;
+}
+
+.next {
+  background-color: #04AA6D;
+  color: white;
+}
+
+.round {
+  border-radius: 50%;
+}
+
+</body>
+</htmL>
+ 

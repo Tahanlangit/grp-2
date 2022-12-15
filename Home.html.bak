@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Q1</title>
+  <style>
+    body{
+      margin:0;
+      padding:0;
+      font-family:Arial;
+    p{
+      width:900px;
+      margin:30px auto;
+      text-align:justify;
+      font-size:22px;
+      line-height:30px;
+    }
+  </style>
+ </head>
+ 
+ <body>
+    
+    <p>Our group discussed and finalized our roles during <b>EG1</b>. We also created a portfolio for our group and answered to Experiences 2 and 3.</p>
+<br>
+    <p>We answered the question in Experience 2 during <b>EG2</b>.</p>
+<br>
+    <p>We started our Integrated Performance-Based Assessment in Life Labs and English during <b>EG 3-4</b>. In this portion, we first chose our topic and explained why we chose it.</p>
+<br>
+    <p>We created a survey and the questions in it during <b>EG 5-6</b>. We conducted our survey at the same time and used the findings to formulate our thesis statement.</p>
+<br>
+    <p>We created website content during <b>EG 7</b>. The Website Content contains a summary of everything we did in each Experience Guide for Quarter 1.</p>
+
+<a href="index.html" class="previous">&laquo; Previous</a>
+<a href="Q2 .html" class="next">Next &raquo;</a>
+
+<a href="Content .html" class="previous round">&#8249;</a>
+<a href="Q2 .html" class="next round">&#8250;</a>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+}
+
+a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.previous {
+  background-color: #f1f1f1;
+  color: black;
+}
+
+.next {
+  background-color: #04AA6D;
+  color: white;
+}
+
+.round {
+  border-radius: 50%;
+}
+</style>
+</head>
+<body>
+
+
+
+
+
+

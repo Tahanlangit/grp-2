@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Home</title>
+  <style>
+    body{
+      margin:0;
+      padding:0;
+      font-family:Arial;
+    }
+    nav{
+      position:fixed;
+      top:0;
+      left:0;
+      width:100%;
+      height:100px;
+      padding:10px 90px;
+      box-sizing:border-box;
+      background:#7480ba;
+    }
+    nav .logo{
+      padding:22px 20px;
+      height:80px;
+      float:left;
+      font-size:24px;
+      font-weight:bold;
+      text-transform:uppercase;
+      color:#fff;
+    }
+    nav ul {
+      list-style:none;
+      float:right;
+      margin:0;
+      padding:0;
+      display:flex;
+    }
+    nav ul li a {
+      line-height:80px;
+      color:#fff;
+      padding:12px 30px;
+      text-decoration:none;
+      text-transform:uppercase;
+      font-size:15px;
+      font-weight:bold;
+    }
+    nav ul li a:hover{
+      background:line;
+      border-radius:6px;
+      color:#000;
+    }
+    nav ul li a.active{
+      background:#e2472f;
+      border-radius:6px;
+    }
+    p{
+      width:900px;
+      margin:30px auto;
+      text-align:justify;
+      font-size:22px;
+      line-height:30px;
+    }
+  </style>
+</head>
+
+<body>
+    <nav>
+    <div class="https://ibb.co/qpbdS6m"></div>
+    <ul>
+	  <li><a href="index.html">Home</a></li>
+	  <li><a href="Content .html">Our Content</a></li>
+	  <li><a href="Home.html">Q1</a></li>
+	  <li><a href="Q2 .html">Q2</a></li>
+	  <li><a href="About us .html">About Us</a></li>
+	  <li><a href="Contact us.html">Contact Us</a></li>
+	  <li><a href="#">Our Events</a></li>
+     
+    </ul>
+    </nav>
+    <section class="secl"></section>
+    <section class="content"></section>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+	<h1>Who are we?</h1>
+	<p>We are the Casuals and our group comprises of me Paul Jerome A. Tahanlangit, Cyrus Jared Cosme, Marc Krystian Dela Rosa, Sabrina Chloe Arante, Miggy Conception, and Reign Yves Macabuhay</p>
+	
+	<h1>What do we do?</h1>
+	<p>We are a group 2 from APEC Schools that is doing a project which we have to document all our progress we have made all over Quarter 1 to 2 and to advertaise our upcoming stream.</p>
+    
+	<h1>Navigation</h1>
+	<p>This is the Home of our website and where you can see what our website is all about</p>
+	<p>If you look up you can see our navigation bar which will take you to different parts about our project such as our content and advertaising and our stream</p>
+<br>
+<br>
+<br>
+<br>
+
+<a href="our Events .html" class="previous">&laquo; Previous</a>
+<a href="Content .html" class="next">Next &raquo;</a>
+
+<a href="Our Events .html" class="previous round">&#8249;</a>
+<a href="Content .html" class="next round">&#8250;</a>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+}
+
+a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.previous {
+  background-color: #f1f1f1;
+  color: black;
+}
+
+.next {
+  background-color: #04AA6D;
+  color: white;
+}
+
+.round {
+  border-radius: 50%;
+}
+</style>
+</head>
+<body>
+
+</div>
+</body>
+</html>
